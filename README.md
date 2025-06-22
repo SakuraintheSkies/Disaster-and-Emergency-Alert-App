@@ -10,25 +10,31 @@ An interactive Figma-based UI/UX design for an emergency alert mobile app. This 
 
 This app prototype includes **4 core frames**:
 
-1. **📞 Public Services Numbers**
-   - Quick dial options for police, fire brigade, ambulance, disaster helplines, etc.
+1. **📞 Emergency Numbers**
+   - Quick dial options for police, fire brigade, ambulance, emergency helplines, accident, disaster management.
 
-2. **📰 Live News & Alerts**
-   - Verified emergency news and weather notifications from trusted sources.
+2. **📰 News & Alerts**
+   - Verified emergency news from trusted sources.
 
-3. **🆘 SOS**
-   - Emergency trigger with location sharing and alerting pre-saved contacts.
+3. **🆘 HOME**
+   - Emergency trigger with location sharing and alerting emergency contacts ,showing the city and its details over national disaster management website, and easily accessible NDRF website.
 
 4. **⚙️ Settings**
    - Customize notification preferences, location sharing, themes, and user profile.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Pictures of the 14 frames 
 
 > _Upload screenshots of each frame below_
-
-- ![Public Services Numbers](path/to/public-services.png)
+- ![Loading Page ](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/Screenshot%202025-06-23%20010033.png), [Material Fire Symbol](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/pixilart-drawing.png)
+- ![Loading Page 2 ](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/Screenshot%202025-06-23%20010038.png), [Material Water Animation](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/water-pixilart.gif)
+- ![Home Page ](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/Screenshot%202025-06-23%20010051.png), [Material Icon SOS](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/pixilart-drawing%20(1).png)
+- ![Emergency Contacts Page ](path/to/public-services.png)
+- ![Emergency Contacts Page ](path/to/public-services.png)
+- ![Emergency Contacts Page ](path/to/public-services.png)
+- ![Emergency Contacts Page ](path/to/public-services.png)
+- ![Emergency Contacts Page ](path/to/public-services.png)
 - ![News](path/to/news.png)
 - ![SOS](path/to/sos.png)
 - ![Settings](path/to/settings.png)
