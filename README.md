@@ -27,17 +27,53 @@ This app prototype includes **4 core frames**:
 ## 🖼️ Pictures of the 14 frames 
 
 > _Upload screenshots of each frame below_
-- ![Loading Page ](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/Screenshot%202025-06-23%20010033.png), [Material Fire Symbol](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/pixilart-drawing.png)
-- ![Loading Page 2 ](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/Screenshot%202025-06-23%20010038.png), [Material Water Animation](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/water-pixilart.gif)
-- ![Home Page ](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/Screenshot%202025-06-23%20010051.png), [Material Icon SOS](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App/blob/300f03f271f30dfea099a888c80c7de8ef9202d8/pixilart-drawing%20(1).png)
-- ![Emergency Contacts Page ](path/to/public-services.png)
-- ![Emergency Contacts Page ](path/to/public-services.png)
-- ![Emergency Contacts Page ](path/to/public-services.png)
-- ![Emergency Contacts Page ](path/to/public-services.png)
-- ![Emergency Contacts Page ](path/to/public-services.png)
-- ![News](path/to/news.png)
-- ![SOS](path/to/sos.png)
-- ![Settings](path/to/settings.png)
+<br>
+<a href="Screenshot 2025-06-23 010033.png?raw=true">
+  <img src="Screenshot 2025-06-23 010033.png?raw=true" alt="Loading Page " title="Click to view Loading Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010038.png?raw=true">
+  <img src="Screenshot 2025-06-23 010038.png?raw=true" alt="Loading Page 2" title="Click to view Loading Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010051.png?raw=true">
+  <img src="Screenshot 2025-06-23 010051.png?raw=true" alt="Home Page" title="Click to view Home Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010058.png?raw=true">
+  <img src="Screenshot 2025-06-23 010058.png?raw=true" alt="Emergency Contacts Page" title="Click to view Emergency Contacts Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010113.png?raw=true">
+  <img src="Screenshot 2025-06-23 010113.png?raw=true" alt="Fire Emergency Contact and Loaction sending button" title="Click to view Fire Emergency Contact and Loaction sending button" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010122.png?raw=true">
+  <img src="Screenshot 2025-06-23 010122.png?raw=true" alt="Police Emergency Contact and Loaction sending button" title="Click to view Police Emergency Contact and Loaction sending button " width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010130.png?raw=true">
+  <img src="Screenshot 2025-06-23 010130.png?raw=true" alt="Medical Emergency Contact and Loaction sending button" title="Click to view Medical Emergency Contact and Loaction sending button" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010139.png?raw=true">
+  <img src="Screenshot 2025-06-23 010139.png?raw=true" alt="Disaster Management Emergency Contact and Loaction sending button" title="Click to view Disaster Management Emergency Contact and Loaction sending button" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010130.png?raw=true">
+  <img src="Screenshot 2025-06-23 010130.png?raw=true" alt="Medical Emergency Contact and Loaction sending button" title="Click to view Medical Emergency Contact and Loaction sending button" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010147.png?raw=true">
+  <img src="Screenshot 2025-06-23 010147.png?raw=true" alt="Accident Emergency Contact and Loaction sending button" title="Click to view Accident Emergency Contact and Loaction sending button" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010155.png?raw=true">
+  <img src="Screenshot 2025-06-23 010155.png?raw=true" alt="Emergency Helpline Contact and Loaction sending button" title="Click to view Emergency Helpline Contact and Loaction sending button" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010205.png?raw=true">
+  <img src="Screenshot 2025-06-23 010205.png?raw=true" alt="News And Alerts page" title="Click to view News And Alerts Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010213.png?raw=true">
+  <img src="Screenshot 2025-06-23 010213.png?raw=true" alt="News and Alerts 2 page" title="Click to view News and Alerts 2 Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010221.png?raw=true">
+  <img src="Screenshot 2025-06-23 010221.png?raw=true" alt="Settings and information page" title="Click to view Settings and Information Page" width="150" />
+</a>
+<a href="Screenshot 2025-06-23 010228.png?raw=true">
+  <img src="Screenshot 2025-06-23 010228.png?raw=true" alt="Settings and information page 2" title="Click to view Settings and Information Page 2" width="150" />
+</a>
+
 
 ---
 
